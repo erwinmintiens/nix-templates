@@ -15,6 +15,8 @@
             pkgs.rustc
             pkgs.cargo
             pkgs.rust-analyzer
+            pkgs.rustfmt
+            pkgs.clippy
           ];
         };
       }

@@ -28,3 +28,5 @@ The Rust flake.nix file comes pre-loaded with:
 - rustc
 - cargo
 - rust-analyzer
+- rustfmt
+- clippy
