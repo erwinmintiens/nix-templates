@@ -5,11 +5,11 @@
     templates = {
       rust = {
         description = "Base template for Rust projects";
-        path = ./templates/rust;
+        path = ./rust;
       };
       python = {
         description = "Base template for Python projects";
-        path = ./templates/python;
+        path = ./python;
       };
     };
   };
